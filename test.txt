@@ -1,5 +1,3 @@
 Hello, Git
-
 Line 1
-
 Add new line
